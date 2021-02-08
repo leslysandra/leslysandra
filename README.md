@@ -4,7 +4,7 @@
 **leslysandra/leslysandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3>Hello world!
+<h3>Hello world!</h3>
 
 - 🔭 I’m currently working on Tech Education projects
 - 🌱 I’m currently learning more about TensorFlow
