@@ -15,6 +15,10 @@
   * Tech communities: [Google Developer Expert](https://twitter.com/GoogleDevExpert)
   * [Instagram](https://www.instagram.com/leslysandra)
 
+<a href="https://frontend.code-inspector.com/public/user/github/leslysandra">
+   <img src="https://code-inspector.com/public/badge/user/github/leslysandra" alt="code inspector badge" />
+</a>
+
 
 <!--
 - 📫 How to reach me:
