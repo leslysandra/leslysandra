@@ -16,6 +16,11 @@
   * [Instagram](https://www.instagram.com/leslysandra)
 
 
+<h3>CODE INSPECTOR STATS</h3>
+<a href="https://frontend.code-inspector.com/public/user/github/leslysandra">
+   <img src="https://code-inspector.com/public/badge/user/github/leslysandra" alt="code inspector badge" />
+</a>
+
 
 <!--
 - 📫 How to reach me:
