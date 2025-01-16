@@ -7,7 +7,7 @@
 <h3>Hello world!</h3>
 
 - 🔭 I’m currently working on Tech Education projects, Data Analysis & leading Tech Projects
-- 🌱 I’m currently learning more about TensorFlow
+- 🌱 Learning more about TensorFlow, GenAI, management...
 <!--  - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about AI, data science, education, Latin America
