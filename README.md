@@ -2,12 +2,7 @@
 
 <!--
 **leslysandra/leslysandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<h3>Hello world!</h3>
-
-
-<!-- - 🔭 I’m currently working on Tech Education projects, Data Analysis & leading Tech Projects
+- 🔭 I’m currently working on Tech Education projects, Data Analysis & leading Tech Projects
 - 🌱 Learning more about TensorFlow, GenAI, management...
 <!--  - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
@@ -15,7 +10,10 @@
 - Find me around 🌎:
   * Tech communities: [Google Developer Expert](https://twitter.com/GoogleDevExpert)
   * [Instagram](https://www.instagram.com/leslysandra)
-... -->
+-->
+
+<h3>Hello world!</h3>
+
 <!--
 <h4>check my CODE INSPECTOR STATS! </h4>
 <a href="https://frontend.code-inspector.com/public/user/github/leslysandra">
@@ -31,6 +29,7 @@
 
 ## About Me
 AI + Tech + Education
+
 Love learning and teaching! Let me share concepts in simple words, ideas into prototypes and life experience in tech as digital nomad
 I'm part of different tech communities ([Google Developer Expert](https://developers.google.com/community/experts), Python, Women Techmakers, ...) 
 
