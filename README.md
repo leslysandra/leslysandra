@@ -6,7 +6,6 @@
 - 🌱 Learning more about TensorFlow, GenAI, management...
 <!--  - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
--->
 
 <h3>Hello world!</h3>
 Ask me about AI, data science, education, Latin America.
