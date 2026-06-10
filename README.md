@@ -6,8 +6,8 @@
 
 <h3>Hello world!</h3>
 
-<!--
-- 🔭 I’m currently working on Tech Education projects, Data Analysis & leading Tech Projects
+
+<!-- - 🔭 I’m currently working on Tech Education projects, Data Analysis & leading Tech Projects
 - 🌱 Learning more about TensorFlow, GenAI, management...
 <!--  - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
